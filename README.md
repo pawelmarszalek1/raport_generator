@@ -7,6 +7,10 @@ Generator Raportów Sprzedażowych z Gemini to zaawansowane narzędzie analitycz
 Automatyzacja procesu tworzenia raportów biznesowych poprzez:
 
 -Inteligentną analizę danych sprzedażowych i marketingowych
+
 -Generowanie strategicznych insightów przez zaawansowany model AI
+
 -Tworzenie gotowych prezentacji w formacie PowerPoint (.pptx)
+
 -Oszczędność czasu zespołów analitycznych i zarządzających
+
