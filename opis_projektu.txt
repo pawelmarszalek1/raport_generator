@@ -1,2 +1,0 @@
-Projekt polega na modelu gemini 2.5 flash.
-Z wykorzystaniem w/w modelu analizuje dane sprzedażowo-marketingowe i za pomocą przygotowanego promptu analizuje dane i tworzy prezentacje z użyciem szablony w powerpoint z analiza, podsumowaniem, wnioskami i rekomendacjami na dalsze kroki
